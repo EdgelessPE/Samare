@@ -28,8 +28,8 @@ Firless 有许多分支版本。版本号一般是 `<版本号>+<分支>` 或 `<
 
 ### 其他选择
 如果您不太符合您的口味，我们也提供了一些较好的选择给您: 
-1. **FirPE**: 也许是最适合年轻人使用的第三方WinPE，不必多言。和 Firless 一家，很多都可以互通，维护活跃，高兼容度。 [官网](firpe.cn) 
-2. **Edgeless**: 新生代的PE工具箱，优雅强大，充满活力。拥有强大的插件功能，可玩性强，FirPE 和 Firless 也支持 Edgeless 插件。 [官网](home.edgeless.top) 
-3. **Hikari PE**: 和微PE这样的行业标杆不同，Hikari PE 在保证功能稳定的情况下，紧跟时代前沿，探索使用 PE 维护 PC 的更多可能性，也支持 Edgeless 插件，适合有一定基础的用户。[官网](hikaripe-sc.hikaricalyx.com) 
-4. **微 PE**: 经典，好用无需多言。[官网](www.wepe.com.cn) 
-5. **EasyU 优启通**: 广泛兼容、稳定耐用、快速启动。 [官网](www.itsk.com/thread-417902-1-1.html)
+1. **FirPE**: 也许是最适合年轻人使用的第三方WinPE，不必多言。和 Firless 一家，很多都可以互通，维护活跃，高兼容度。 [官网](https://firpe.cn/) 
+2. **Edgeless**: 新生代的PE工具箱，优雅强大，充满活力。拥有强大的插件功能，可玩性强，FirPE 和 Firless 也支持 Edgeless 插件。 [官网](https://home.edgeless.top/) 
+3. **Hikari PE**: 和微PE这样的行业标杆不同，Hikari PE 在保证功能稳定的情况下，紧跟时代前沿，探索使用 PE 维护 PC 的更多可能性，也支持 Edgeless 插件，适合有一定基础的用户。[官网](https://hikaripe-sc.hikaricalyx.com/) 
+4. **微 PE**: 经典，好用无需多言。[官网](http://www.wepe.com.cn [) 
+5. **EasyU 优启通**: 广泛兼容、稳定耐用、快速启动。 [官网](https://www.itsk.com/thread-417902-1-1.html)
