@@ -22,6 +22,7 @@ Firless 有许多分支版本。版本号一般是 `<版本号>+<分支>` 或 `<
 
 ## 其他
 ### 注意事项
+- `Firless` 将会支持 `arm64` 架构，但不支持 `ia32` 以及 `ia64` 架构。
 - `Firless 3.1.x` 起，`3.x` 的 `iso` 发行包不再提供 `Legacy BIOS` 启动支持。
 - `Firless 3.x` 至少需要 `USB 3.x+` 的移动储存设备。
 - `Firless 3.1.x` 起，将内置 `Illegal Version Checker (非法版本检测器)`，并对启动镜像进行签名。如对启动镜像进行修改，可能会触发 `Product Protect (产品保护)` 机制。
