@@ -10,19 +10,19 @@
 `Firless` is positioned as experimental and extensible, with functions between `WinPE` and `RamOS`, and may not be suitable for elderly care or daily maintenance (except for the official version).
 
 ## Features
--MTP (USB connect to mobile phone for file sharing)
--Network card, sound card driver
--Bitlocker
--VC++ 8,9 runtime library
--Partially supported by MSI (Micrsoft Windows Installer)
--RNDIS (USB connect to mobile phone to use mobile phone to share network)
--PPPoE (ADSL dial-up)
--DISM
--Photo viewer (included in the system)
--Picture, WordPad, Notepad3, etc.
--Essential maintenance kit (WinNTSetup, boot repair, DG partition, input method...)
--Edgeless plug-in support (free to add software, drivers, runtime libraries, no need to unpack)
--Ventoy startup compatible
+- MTP (USB connect to mobile phone for file sharing)
+- Network card, sound card driver
+- Bitlocker
+- VC++ 8,9 runtime library
+- Partially supported by MSI (Micrsoft Windows Installer)
+- RNDIS (USB connect to mobile phone to use mobile phone to share network)
+- PPPoE (ADSL dial-up)
+- DISM
+- Photo viewer (included in the system)
+- Picture, WordPad, Notepad3, etc.
+- Essential maintenance kit (WinNTSetup, boot repair, DG partition, input method...)
+- Edgeless plug-in support (free to add software, drivers, runtime libraries, no need to unpack)
+- Ventoy startup compatible
 
 ## Download
 You can download the image file in the format of `iso` or `wim` from [Release](https://github.com/EdgelessPE/Firless/releases) of this project to install it.
