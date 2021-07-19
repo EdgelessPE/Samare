@@ -7,7 +7,7 @@
 
 > Thank you for choosing `Firless`!
 
-`Firless` is positioned as experimental and extensible, with functions between `WinPE` and `RamOS`, and may not be suitable for elderly care or daily maintenance (except for the stable version).
+`Firless` is positioned as experimental and extensible, with functions between `WinPE` and `RamOS`, and may not be suitable for long-term use or daily maintenance (except for the stable version).
 
 ## Features
 - MTP (USB connect to mobile phone for file sharing)
