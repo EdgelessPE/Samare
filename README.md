@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="Logo - Light- Square – 1.svg" alt="Firless" width="40%" />
+</div>
+
 # Firless
 [English (unavailable)](./README-en.md)
 
@@ -5,10 +9,26 @@
 
 `Firless` 定位为实验性、可拓展，功能介于 `WinPE` 和 `RamOS` 之间，可能并不适合养老或日常维护（除正式版外）。
 
+## 功能
+- MTP (USB连接手机进行文件共享)
+- 网卡、声卡驱动
+- Bitlocker
+- VC++ 8,9 运行库
+- MSI(Micrsoft Windows Installer) 部分支持
+- RNDIS (USB连接手机使用手机共享网络)
+- PPPoE (ADSL拨号)
+- DISM
+- 照片查看器(系统自带)
+- 图画、写字板、Notepad3等
+- 必备维护工具包（WinNTSetup, 引导修复, DG分区，输入法....）
+- Edgeless 插件支持 （可自由添加软件、驱动、运行库，无需解包）
+- Ventoy 启动兼容
+
 ## 下载
 您可以从本项目的 [Release](https://github.com/EdgelessPE/firless-release/releases) 下载格式为 `iso` 或者 `wim` 的镜像文件进行安装。
 
 ## 版本
+
 ### 版本号
 目前受支持的 Firless 版本号为 `2.x (基于 Windows 10)` 和 `3.x (基于 Windows 11)`。
 
