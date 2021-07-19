@@ -2,7 +2,7 @@
   <img src="Logo - Light- Square – 1.svg" alt="Firless" width="40%" />
 </div>
 
-# Firless
+# [Firless](https://firless.cc/)
 [English (unavailable)](./README-en.md)
 
 > 感谢您选择 `Firless` !
@@ -26,6 +26,9 @@
 
 ## 下载
 您可以从本项目的 [Release](https://github.com/EdgelessPE/firless-release/releases) 下载格式为 `iso` 或者 `wim` 的镜像文件进行安装。
+
+### 其他发布地址
+[无忧启动](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=426094)
 
 ## 版本
 
