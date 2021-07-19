@@ -3,7 +3,7 @@
 </div>
 
 # [Firless](https://firless.cc/)
-[English (unavailable)](./README-en.md)
+[English](./README-en.md)
 
 > 感谢您选择 `Firless` !
 
