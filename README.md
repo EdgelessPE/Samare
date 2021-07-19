@@ -25,9 +25,11 @@
 - 必备维护工具包（WinNTSetup, 引导修复, DG分区，输入法....）
 - Edgeless 插件支持 （可自由添加软件、驱动、运行库，无需解包）
 - Ventoy 启动兼容
+- exFAT 启动 （SDI）
 
 ## 下载
 您可以从本项目的 [Release](https://github.com/EdgelessPE/Samare/releases) 下载格式为 `iso` 或者 `wim` 的镜像文件进行安装。
+加入 QQ 群以获得更好的服务 [加群链接](https://jq.qq.com/?wv=1027&k=ImgfMTSV)
 
 ### 其他发布地址
 [无忧启动](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=426094)
