@@ -1,13 +1,15 @@
 <div align="center">
-  <img src="Logo - Light- Square – 1.svg" alt="Firless" width="40%" />
+  <img src="Logo - Light – 1.png" alt="Samare" width="50%" />
 </div>
 
-# [Firless](https://firless.cc/)
+# [Samare](https://firless.cc/)
 [中文简体](./README.md)
 
-> Thank you for choosing `Firless`!
+> Notice: The original name is `Firless`
 
-`Firless` is positioned as experimental and extensible, with functions between `WinPE` and `RamOS`, and may not be suitable for long-term use or daily maintenance (except for the stable version).
+> Thank you for choosing `Samare`!
+
+`Samare` is positioned as experimental and extensible, with functions between `WinPE` and `RamOS`, and may not be suitable for long-term use or daily maintenance (except for the stable version).
 
 ## Features
 - MTP (USB connect to mobile phone for file sharing)
@@ -33,10 +35,10 @@ You can download the image file in the format of `iso` or `wim` from [Release](h
 ## Version
 
 ### Version Number
-The currently supported Firless version numbers are `2.x (based on Windows 10)` and `3.x (based on Windows 11)`.
+The currently supported Samare version numbers are `2.x (based on Windows 10)` and `3.x (based on Windows 11)`.
 
 ### Branch
-Firless has many branch versions. The version number is generally `<version number>+<branch>` or `<version number>_<build date>+<branch>`.
+Samare has many branch versions. The version number is generally `<version number>+<branch>` or `<version number>_<build date>+<branch>`.
 
 -`stable` stable version: After rigorous testing, the function is stable, suitable for normal use or elderly care.
 -`stable_rc` stable candidate version: After general testing, the function is relatively stable, close to `stable`, but there may be some minor flaws.
@@ -46,14 +48,14 @@ Firless has many branch versions. The version number is generally `<version numb
 ## Other
 
 ### Precautions
--`Firless` will support `arm64` architecture, but not `ia32` and `ia64` architectures.
--Starting from `Firless 3.1.x`, the `iso` release package of `3.x` no longer provides `Legacy BIOS` boot support.
--`Firless 3.x` requires at least a mobile storage device of `USB 3.x+`.
--From `Firless 3.1.x`, `Illegal Version Checker (Illegal Version Checker)` will be built-in and the boot image will be signed. If the boot image is modified, the `Product Protect` mechanism may be triggered.
+-`Samare` will support `arm64` architecture, but not `ia32` and `ia64` architectures.
+-Starting from `Samare 3.1.x`, the `iso` release package of `3.x` no longer provides `Legacy BIOS` boot support.
+-`Samare 3.x` requires at least a mobile storage device of `USB 3.x+`.
+-From `Samare 3.1.x`, `Illegal Version Checker (Illegal Version Checker)` will be built-in and the boot image will be signed. If the boot image is modified, the `Product Protect` mechanism may be triggered.
 
 ### Other options
 If you are not in line with your taste, we also provide you with some better options:
-1. **FirPE**: Maybe it is the third-party WinPE most suitable for young people, no need to say more. With Firless, many of them can communicate with each other, maintain active, and have high compatibility. [Official Website](https://firpe.cn/)
+1. **FirPE**: Maybe it is the third-party WinPE most suitable for young people, no need to say more. Many of them can communicate with each other, maintain active, and have high compatibility. [Official Website](https://firpe.cn/)
 2. **Edgeless**: A new generation of PE toolbox, elegant, powerful, and full of vitality. With powerful plug-in functions and strong playability, FirPE and Firless also support Edgeless plug-ins. [Official Website](https://home.edgeless.top/)
 3. **Hikari PE**: Unlike industry benchmarks such as micro PE, Hikari PE keeps up with the forefront of the times while ensuring stable functions, exploring more possibilities for using PE to maintain PCs. It also supports Edgeless plug-ins, suitable for Users with a certain foundation. [Official Website](https://hikaripe-sc.hikaricalyx.com/)
 4. **We PE**: Classic, easy to use without a lot of words. [Official Website](http://www.wepe.com.cn/)
