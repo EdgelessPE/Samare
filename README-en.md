@@ -27,6 +27,7 @@
 - Ventoy startup compatible
 
 ## Download
+Join in our telegram! [Official Group](https://t.me/samarepe_group) [Official Channel](https://t.me/samarepe)
 You can download the image file in the format of `iso` or `wim` from [Release](https://github.com/EdgelessPE/Firless/releases) of this project to install it.
 
 ### Other publishing addresses
