@@ -30,7 +30,7 @@
 ## 下载
 您可以从本项目的 [Release](https://github.com/EdgelessPE/Samare/releases) 下载格式为 `iso` 或者 `wim` 的镜像文件进行安装。
 
-（可选）加入 QQ 用户交流群以获得更好的服务 [加群链接](https://jq.qq.com/?wv=1027&k=ImgfMTSV)。
+（可选）加入 Telegram 群组或频道以获得更好的服务 [官方群组](https://t.me/samarepe_group) [官方频道](https://t.me/samarepe)
 
 ### 其他发布地址
 [无忧启动](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=426094)
